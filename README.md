@@ -1,4 +1,4 @@
-# CI_Java_gradle
+# CI_Java_Gradle
 
 This application is java spring boot web application  
 
