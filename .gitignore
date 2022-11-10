@@ -1,6 +1,7 @@
 .gradle
 /build/
-
+.vscode
+/home/i573046/projects/CIPipelineSpringApp/bin
 # Ignore Gradle GUI config
 gradle-app.setting
 
